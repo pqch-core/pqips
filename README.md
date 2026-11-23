@@ -7,6 +7,9 @@ activated is in [PQIP 1](pqip-0001.md).
 | Number | Title | Type | Status |
 | --- | --- | --- | --- |
 | [1](pqip-0001.md) | PQIP purpose and process | Process | Proposed |
+| [2](pqip-0002.md) | Pay-to-Merkle-Root outputs and post-quantum signatures | Consensus | Proposed |
+| [3](pqip-0003.md) | Merged mining with Monero (AuxPoW) and the Monero key rule | Consensus | Proposed |
+| [4](pqip-0004.md) | ML-DSA emergency soft fork | Consensus (soft fork) | Proposed |
 
 ## Proposing a PQIP
 
