@@ -10,6 +10,7 @@ activated is in [PQIP 1](pqip-0001.md).
 | [2](pqip-0002.md) | Pay-to-Merkle-Root outputs and post-quantum signatures | Consensus | Proposed |
 | [3](pqip-0003.md) | Merged mining with Monero (AuxPoW) and the Monero key rule | Consensus | Proposed |
 | [4](pqip-0004.md) | ML-DSA emergency soft fork | Consensus | Proposed |
+| [5](pqip-0005.md) | Post-quantum Lightning channels | Applications | Draft |
 
 ## Proposing a PQIP
 
